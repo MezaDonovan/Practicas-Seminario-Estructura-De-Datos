@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1653357536 source:c:\users\danie\documents\ingeniería en computación\3 semestre\seminario de estructura de datos i\programas\proyecto final\main.cpp
+	<iostream>
+	"ArbolBinario.h"
+	"LDLCCED.h"
+	"Contacto.h"
+	"Llamada.h"
+	<time.h>
+
+1653356675 c:\users\danie\documents\ingeniería en computación\3 semestre\seminario de estructura de datos i\programas\proyecto final\arbolbinario.h
+	<iostream>
+	<exception>
+	<string>
+	<fstream>
+	"Contacto.h"
+
+1652837758 c:\users\danie\documents\ingeniería en computación\3 semestre\seminario de estructura de datos i\programas\proyecto final\contacto.h
+
+1653357973 c:\users\danie\documents\ingeniería en computación\3 semestre\seminario de estructura de datos i\programas\proyecto final\ldlcced.h
+	<iostream>
+	<exception>
+	<string>
+
+1652837758 c:\users\danie\documents\ingeniería en computación\3 semestre\seminario de estructura de datos i\programas\proyecto final\llamada.h
+
+1653364413 source:c:\users\laptopgris\downloads\proyecto final\proyecto final\main.cpp
+	<iostream>
+	<time.h>
+	<iostream>
+	<exception>
+	<string>
+	<fstream>
+
+1653356675 c:\users\laptopgris\downloads\proyecto final\proyecto final\arbolbinario.h
+	<iostream>
+	<exception>
+	<string>
+	<fstream>
+	"Contacto.h"
+
+1652837758 c:\users\laptopgris\downloads\proyecto final\proyecto final\contacto.h
+
+1653358511 c:\users\laptopgris\downloads\proyecto final\proyecto final\ldlcced.h
+	<iostream>
+	<exception>
+	<string>
+	"Llamada.h"
+
+1652837758 c:\users\laptopgris\downloads\proyecto final\proyecto final\llamada.h
+
+1653365259 source:c:\users\donovan\desktop\seminario estructuras de datos\proyecto final\main.cpp
+	<iostream>
+	<time.h>
+	<iostream>
+	<exception>
+	<string>
+	<fstream>
+
